@@ -127,10 +127,10 @@ Nutriția cognitivă reprezintă un aspect important al promovării unei sănăt
     <h2>Alimente Benefice pentru Creier</h2>
     <p>Imagini relevante pentru nutriția cognitivă:</p>
     <div class="image-grid">
-        <img src="link_imaginie_1.jpg" alt="Pește gras">
-        <img src="link_imaginie_2.jpg" alt="Fructe de pădure">
-        <img src="link_imaginie_3.jpg" alt="Legume cu frunze verzi">
-        <img src="link_imaginie_4.jpg" alt="Nuci și semințe">
+        <img src="peste_gras.jpeg" alt="Pește gras">
+        <img src="fructe_de_padure.jpeg" alt="Fructe de pădure">
+        <img src="legume_verzi.jpeg" alt="Legume cu frunze verzi">
+        <img src="nuci_seminte.jpeg" alt="Nuci și semințe">
     </div>
 </section>
 
@@ -149,4 +149,3 @@ Nutriția cognitivă reprezintă un aspect important al promovării unei sănăt
     </footer>
 </body>
 </html>
-
